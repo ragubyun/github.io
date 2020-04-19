@@ -1,4 +1,4 @@
-# Rain's Blog
+# Blog
 
 - [TIL: Today I Learned](https://ragubyun.github.io/TIL/)
 
